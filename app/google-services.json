@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645695275629",
+    "firebase_url": "https://habitech-30fd8-default-rtdb.firebaseio.com",
+    "project_id": "habitech-30fd8",
+    "storage_bucket": "habitech-30fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645695275629:android:e9a413575f3daf5734b564",
+        "android_client_info": {
+          "package_name": "com.habitechNative.projectname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuvqPkCPWBefQoga1Eekouq38fhuSi4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
